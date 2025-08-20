@@ -16,7 +16,7 @@ Clone this repository and launch with main.py:
    ```bash
    git clone https://github.com/nedra23/password-generator.git
    cd password-generator
-   main.py
+   python main.py
    ```
 Or download the latest release from the [Releases page](https://github.com/nedra23/password-generator/releases) and launch `main.exe`.
 

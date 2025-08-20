@@ -10,11 +10,10 @@ Easily create secure, random passwords with options for lowercase, uppercase, di
 - Clean and minimal UI
 
 ## How to Run
-Clone this repository:
+Clone this repository and launch with main.py:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/nedra23/password-generator.git
    cd password-generator
-   python main.py
+   main.py
    ```
-### Or
-Launch with main.exe
+Or Launch with main.exe from the folder

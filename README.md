@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 
 A simple but powerful password generator built with Python and Tkinter.  
 Easily create secure, random passwords with options for lowercase, uppercase, digits, and special characters.

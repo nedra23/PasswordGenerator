@@ -26,5 +26,9 @@ This project was built to practise:
 - Creating desktop GUIs with Tkinter
 - Packaging Python apps into standalone executables
 
+## Contributing
+This project is for portfolio purposes only.  
+Feel free to fork and modify, but pull requests will not be accepted.
+
 ## License
 This project is licensed under the MIT License

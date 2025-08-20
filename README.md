@@ -3,6 +3,8 @@
 A simple but powerful password generator built with Python and Tkinter.  
 Easily create secure, random passwords with options for lowercase, uppercase, digits, and special characters.
 
+<img width="398" height="525" alt="asa" src="https://github.com/user-attachments/assets/3bb1fd44-adc6-477e-a22b-3f36180e1c62" />
+
 ## Features
 - Choose password length  
 - Toggle lowercase, uppercase, numbers, and symbols  

@@ -16,4 +16,7 @@ Clone this repository and launch with main.py:
    cd password-generator
    main.py
    ```
-Or Launch with main.exe from the folder
+Or download the release and launch main.exe
+
+## License
+This project is licensed under the MIT License

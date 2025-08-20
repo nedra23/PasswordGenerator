@@ -21,7 +21,7 @@ Clone this repository and launch with main.py:
 Or download the latest release from the [Releases page](https://github.com/nedra23/password-generator/releases) and launch `main.exe`.
 
 ## About this Project
-This project was built to practice:
+This project was built to practise:
 - Secure random generation with Python’s `secrets` module
 - Creating desktop GUIs with Tkinter
 - Packaging Python apps into standalone executables

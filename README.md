@@ -18,7 +18,7 @@ Clone this repository and launch with main.py:
    cd password-generator
    main.py
    ```
-Or download the release and launch main.exe
+Or download the latest release from the [Releases page](https://github.com/nedra23/password-generator/releases) and launch `main.exe`.
 
 ## License
 This project is licensed under the MIT License
